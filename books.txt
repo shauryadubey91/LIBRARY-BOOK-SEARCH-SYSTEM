@@ -1,0 +1,5 @@
+C++ Programming	Bjarne Stroustrup
+DSA (Data Structures and Algorithms)	Thomas H. Cormen
+Java Programming	James Gosling
+JavaScript	Brendan Eich
+Python Programming	Guido van Rossum
